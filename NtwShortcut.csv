@@ -1,0 +1,5 @@
+ RootFolder,Name,Path
+LOC1,Folder A,\\172.17.6.10\FOLDER_A
+LOC1,Folder B,\\SRV-STOCK\FOLDER_B
+LOC2,Folder A,\\172.17.90.6\FOLDER_A
+LOC2,Folder B,\\SRV-STOCK\FOLDER_B
